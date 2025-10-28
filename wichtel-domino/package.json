@@ -1,5 +1,5 @@
 {
-  "name": "wichtel-backend",
+  "name": "wichtel-domino",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": { "start": "node server.js" },
