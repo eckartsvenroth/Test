@@ -1,5 +1,5 @@
 {
-  "name": "test-rho-seven-98.vercel.app",
+  "name": "wichtel-backend",
   "version": "1.0.0",
   "main": "backend/server.js",
   "type": "module",
